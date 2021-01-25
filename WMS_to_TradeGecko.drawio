@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-25T16:49:00.520Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="WOiZkHAW0ggSWJeTHCHC" version="14.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-25T16:50:29.661Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="yxjJfwrI0FiMgPzDzF4N" version="14.2.5" type="github">
   <diagram name="Page-1" id="74b105a0-9070-1c63-61bc-23e55f88626e">
     <mxGraphModel dx="1408" dy="1172" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -16,10 +16,10 @@
         <mxCell id="10b056a9c633e61c-30" value="Warehouse API to Trade Gecko Integration Project" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
           <mxGeometry x="80" y="40" width="1590" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TxjUfdbYysOVmEJLw3QY-3" value="" style="group" parent="1" vertex="1" connectable="0">
+        <mxCell id="TxjUfdbYysOVmEJLw3QY-3" value="" style="group;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="140" y="270" width="100" height="135" as="geometry" />
         </mxCell>
-        <mxCell id="TxjUfdbYysOVmEJLw3QY-1" value="" style="strokeWidth=2;dashed=0;align=center;fontSize=18;shape=rect;fillColor=#c0f5a9;verticalLabelPosition=bottom;verticalAlign=top;" parent="TxjUfdbYysOVmEJLw3QY-3" vertex="1">
+        <mxCell id="TxjUfdbYysOVmEJLw3QY-1" value="" style="strokeWidth=2;dashed=0;align=center;fontSize=18;shape=rect;fillColor=#dae8fc;verticalLabelPosition=bottom;verticalAlign=top;strokeColor=#6c8ebf;" parent="TxjUfdbYysOVmEJLw3QY-3" vertex="1">
           <mxGeometry width="100" height="135" as="geometry" />
         </mxCell>
         <mxCell id="TxjUfdbYysOVmEJLw3QY-2" value="Trade Gecko Order Id" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="TxjUfdbYysOVmEJLw3QY-3" vertex="1">
@@ -209,7 +209,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="TxjUfdbYysOVmEJLw3QY-47" value="Check All Orders in Order Queue for Updated Order Data" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="TxjUfdbYysOVmEJLw3QY-47" value="Check All Orders in Order Queue for Updated Order Data" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;strokeColor=#6c8ebf;fillColor=#dae8fc;" parent="1" vertex="1">
           <mxGeometry x="850" y="810" width="120" height="144" as="geometry" />
         </mxCell>
         <mxCell id="TxjUfdbYysOVmEJLw3QY-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=18;entryX=0.007;entryY=0.619;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="TxjUfdbYysOVmEJLw3QY-1" target="TxjUfdbYysOVmEJLw3QY-24" edge="1">
