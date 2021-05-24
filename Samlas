@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-24T15:31:52.106Z" agent="5.0 (Macintosh)" etag="q5AVosleEogFC2Qs42Sk" version="14.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-24T15:33:45.907Z" agent="5.0 (Macintosh)" etag="NQTLwnuJVWXCQVwsFcfN" version="14.7.0" type="github">
   <diagram id="9Eo8M4WwoxYo-BDGhYdx" name="Page-1">
-    <mxGraphModel dx="1486" dy="2542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="512" dy="1597" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -285,6 +285,9 @@
               <mxPoint x="635" y="200" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Sh8S0TQyHpm7joxKZjvz-8" value="&lt;div&gt;Note: Typeform Submissions &lt;br&gt;&lt;/div&gt;&lt;div&gt;are only for the &quot;Santa Visit&quot; &lt;br&gt;&lt;/div&gt;&lt;div&gt;Shopify product&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="40" y="30" width="170" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
